@@ -142,6 +142,33 @@
       
     }, 'admin-2-boundaries-dispute');
 
+    map.addLayer({
+      id: 'neihborhoods',
+      type: 'line',
+      source: {
+        type: 'geojson',
+        data: './SFneighborhoods.geojson'
+      },
+      'paint': {
+                  'line-color': '#877b59',
+                  'line-width': 1
+              }
+
+    }, 'evictions');
+
+    map.addLayer({
+      id: 'neihborhoodCount',
+      type: 'line',
+      source: {
+        type: 'geojson',
+        data: './Eviction_Neighborhood_and_Year.csv' 
+      },
+      'paint': {
+                  'line-color': '#877b59',
+                  'line-width': 1
+              }
+
+    }, 'evictions');
 
   });
   </script>
