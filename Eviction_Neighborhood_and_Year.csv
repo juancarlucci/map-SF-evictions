@@ -1,0 +1,729 @@
+neighborhoods,year,count
+Bernal Heights,2005,47
+Haight Ashbury,1999 ,101
+Seacliff,2015 ,2
+Lincoln Park,1998 ,1
+Lincoln Park,2002 ,1
+Japantown,2001 ,4
+Hayes Valley,2000 ,135
+Presidio Heights,2005 ,27
+Potrero Hill,2009 ,14
+Outer Richmond,2002 ,81
+Outer Richmond,1998 ,152
+Outer Mission,2006 ,20
+Pacific Heights,2012 ,38
+Japantown,2000 ,5
+Presidio Heights,2004 ,20
+CastroUpper Market,1998 ,145
+CastroUpper Market,2002 ,89
+Hayes Valley,2001 ,91
+Bernal Heights,2004 ,45
+Chinatown,2009 ,13
+Western Addition,2013 ,32
+Portola,2007 ,14
+North Beach,2009 ,17
+Lone MountainUSF,1997 ,94
+Inner Sunset,1997 ,73
+Bayview Hunters Point,2013 ,49
+Marina,2005 ,29
+Presidio,2008 ,1
+Visitacion Valley,2000 ,41
+Twin Peaks,2008 ,22
+Glen Park,2009 ,5
+West of Twin Peaks,2007 ,13
+Financial DistrictSouth Beach,2004 ,7
+Tenderloin,1999 ,78
+Inner Richmond,1998 ,70
+Inner Richmond,2002 ,58
+Russian Hill,2006 ,40
+Pacific Heights,2015 ,57
+Mission,2007 ,161
+Visitacion Valley,2001 ,41
+Financial DistrictSouth Beach,2005 ,9
+Noe Valley,2013 ,36
+Lakeshore,2007 ,11
+Marina,2004 ,75
+South of Market,1997 ,37
+Nob Hill,2004 ,61
+Pacific Heights,2008 ,35
+Outer Mission,2003 ,21
+Glen Park,2001 ,11
+Lincoln Park,2007 ,2
+Haight Ashbury,1997 ,114
+Noe Valley,2016 ,41
+North Beach,2001 ,50
+OceanviewMercedIngleside,2004 ,29
+OceanviewMercedIngleside,2005 ,33
+Outer Mission,2010 ,11
+North Beach,2000 ,57
+Nob Hill,2005 ,70
+Western Addition,2016 ,36
+CastroUpper Market,2007 ,46
+Twin Peaks,2015 ,21
+Bayview Hunters Point,2016 ,81
+Russian Hill,2011 ,36
+Visitacion Valley,2009 ,9
+Glen Park,2000 ,20
+Outer Richmond,2007 ,63
+Russian Hill,2003 ,13
+Japantown,2009 ,3
+Potrero Hill,2000 ,52
+Lone MountainUSF,1999 ,58
+Inner Sunset,1999 ,77
+West of Twin Peaks,2002 ,39
+West of Twin Peaks,1998 ,64
+Chinatown,2000 ,23
+SunsetParkside,2004 ,64
+Portola,2002 ,12
+Portola,1998 ,68
+Tenderloin,1997 ,57
+Lakeshore,1998 ,81
+Lakeshore,2002 ,2
+Excelsior,2014 ,68
+SunsetParkside,2005 ,71
+Russian Hill,2010 ,8
+Chinatown,2001 ,26
+Seacliff,2008 ,1
+Mission,1998 ,341
+Mission,2002 ,177
+Potrero Hill,2001 ,28
+Twin Peaks,2012 ,15
+Inner Richmond,2007 ,50
+Outer Mission,2011 ,29
+South of Market,1999 ,59
+Hayes Valley,2009 ,46
+Haight Ashbury,2001 ,55
+SunsetParkside,2013 ,107
+Presidio Heights,2016 ,9
+Seacliff,2003 ,1
+Glen Park,1997 ,14
+Inner Sunset,2009 ,62
+Twin Peaks,2006 ,6
+Lone MountainUSF,2009 ,11
+Bernal Heights,2016 ,65
+Pacific Heights,2011 ,35
+North Beach,1997 ,42
+Japantown,1999 ,4
+Russian Hill,2008 ,29
+Hayes Valley,1999 ,102
+South of Market,2009 ,42
+Excelsior,2007 ,52
+McLaren Park,2010 ,1
+Haight Ashbury,2000 ,100
+Inner Richmond,2014 ,42
+OceanviewMercedIngleside,2013 ,40
+Lincoln Park,2014 ,2
+Pacific Heights,2010 ,23
+Nob Hill,2013 ,96
+Tenderloin,2001 ,74
+Marina,2016 ,62
+Pacific Heights,2003 ,33
+Visitacion Valley,1999 ,17
+Outer Mission,2008 ,13
+Chinatown,1997 ,12
+Tenderloin,2000 ,85
+CastroUpper Market,2014 ,103
+Seacliff,2011 ,4
+Outer Richmond,2014 ,117
+Potrero Hill,1997 ,49
+McLaren Park,2011 ,1
+Financial DistrictSouth Beach,2016 ,8
+Outer Mission,2015 ,51
+Tenderloin,2009 ,111
+Treasure Island,2004 ,18
+Portola,2014 ,31
+Russian Hill,2012 ,59
+Financial DistrictSouth Beach,2013 ,14
+Glen Park,1999 ,28
+Western Addition,2004 ,25
+West of Twin Peaks,2014 ,29
+Noe Valley,2005 ,42
+North Beach,1999 ,77
+Twin Peaks,2010 ,18
+Bayview Hunters Point,2004 ,30
+Japantown,1997 ,7
+Nob Hill,2016 ,67
+Western Addition,2005 ,21
+Hayes Valley,1997 ,103
+Noe Valley,2004 ,48
+Bayview Hunters Point,2005 ,24
+Marina,2013 ,67
+Mission,2014 ,200
+Seacliff,2006 ,3
+Treasure Island,2005 ,2
+Twin Peaks,2003 ,16
+OceanviewMercedIngleside,2016 ,38
+Lakeshore,2014 ,85
+Excelsior,1998 ,76
+Excelsior,2002 ,47
+Lone MountainUSF,2001 ,51
+Golden Gate Park,2013 ,1
+Inner Sunset,2001 ,85
+Pacific Heights,2006 ,45
+Russian Hill,2015 ,66
+Twin Peaks,2011 ,14
+Outer Mission,2012 ,19
+South of Market,2000 ,43
+Haight Ashbury,2009 ,53
+Visitacion Valley,1997 ,15
+Chinatown,1999 ,21
+Bernal Heights,2013 ,53
+South of Market,2001 ,42
+Inner Sunset,2000 ,80
+Potrero Hill,1999 ,65
+Lone MountainUSF,2000 ,59
+SunsetParkside,2016 ,124
+Presidio Heights,2013 ,14
+Inner Richmond,2016 ,51
+Russian Hill,1997 ,69
+Tenderloin,2003 ,189
+South of Market,2006 ,35
+Japantown,2012 ,3
+Pacific Heights,2000 ,90
+Hayes Valley,2012 ,37
+Glen Park,2008 ,8
+Pacific Heights,2001 ,63
+Inner Sunset,2006 ,32
+Twin Peaks,2009 ,7
+Lone MountainUSF,2006 ,26
+Visitacion Valley,2015 ,27
+Bernal Heights,2014 ,44
+North Beach,2008 ,38
+Presidio Heights,2014 ,17
+Haight Ashbury,2011 ,31
+Tenderloin,2010 ,140
+Financial DistrictSouth Beach,2014 ,9
+Bayview Hunters Point,2007 ,42
+Mission Bay,1998 ,1
+Outer Richmond,2016 ,95
+Haight Ashbury,2003 ,62
+Outer Mission,1997 ,28
+Chinatown,2008 ,15
+CastroUpper Market,2016 ,46
+Western Addition,2007 ,15
+Portola,2013 ,10
+Japantown,2015 ,4
+Potrero Hill,2008 ,17
+Treasure Island,2007 ,2
+West of Twin Peaks,2013 ,52
+Marina,2014 ,59
+Mission,2013 ,237
+Visitacion Valley,2012 ,14
+Tenderloin,2011 ,56
+Haight Ashbury,2010 ,41
+Hayes Valley,2015 ,71
+Seacliff,2000 ,2
+Lakeshore,2013 ,98
+Noe Valley,2007 ,45
+McLaren Park,2000 ,1
+Lakeshore,2016 ,311
+Lone MountainUSF,2003 ,32
+Inner Sunset,2003 ,50
+Lincoln Park,2013 ,1
+Hayes Valley,2008 ,75
+Glen Park,2012 ,4
+Russian Hill,1999 ,76
+OceanviewMercedIngleside,2014 ,44
+Mission,2016 ,182
+McLaren Park,2009 ,2
+Nob Hill,2014 ,93
+North Beach,2012 ,28
+South of Market,2010 ,148
+Inner Sunset,2010 ,31
+Lone MountainUSF,2010 ,22
+West of Twin Peaks,2016 ,32
+Chinatown,2015 ,31
+South of Market,2003 ,29
+Outer Richmond,2013 ,86
+Tenderloin,2006 ,123
+Potrero Hill,2015 ,36
+CastroUpper Market,2013 ,71
+Portola,2016 ,26
+SunsetParkside,2014 ,127
+Glen Park,2015 ,2
+South of Market,2011 ,37
+Outer Mission,1999 ,38
+Twin Peaks,2000 ,32
+Visitacion Valley,2008 ,10
+Excelsior,2005 ,32
+Western Addition,1998 ,26
+Western Addition,2002 ,26
+North Beach,2015 ,46
+Bayview Hunters Point,2002 ,40
+Bayview Hunters Point,1998 ,52
+Mission Bay,2007 ,2
+Chinatown,2012 ,17
+Haight Ashbury,2006 ,51
+Noe Valley,2002 ,45
+Noe Valley,1998 ,132
+Pacific Heights,2009 ,30
+Presidio,2001 ,3
+Inner Richmond,2013 ,48
+Twin Peaks,2001 ,10
+Excelsior,2004 ,36
+Lone MountainUSF,2011 ,18
+Inner Sunset,2011 ,30
+Potrero Hill,2012 ,25
+Visitacion Valley,2010 ,21
+SunsetParkside,2007 ,99
+Chinatown,2006 ,9
+Haight Ashbury,2012 ,49
+Outer Mission,2009 ,24
+Inner Richmond,2005 ,32
+Hayes Valley,2011 ,44
+Potrero Hill,2006 ,14
+Tenderloin,2015 ,173
+Financial DistrictSouth Beach,1998 ,14
+Financial DistrictSouth Beach,2002 ,12
+Mission Bay,2014 ,1
+Inner Richmond,2004 ,37
+Japantown,2011 ,4
+Excelsior,2013 ,67
+Visitacion Valley,2003 ,17
+Pacific Heights,1999 ,69
+Marina,2002 ,78
+Marina,1998 ,114
+Seacliff,1999 ,5
+Haight Ashbury,2015 ,59
+Hayes Valley,2010 ,33
+OceanviewMercedIngleside,2007 ,28
+South of Market,2008 ,66
+Japantown,2003 ,1
+Russian Hill,2009 ,19
+Outer Richmond,2005 ,80
+Lincoln Park,2004 ,1
+Visitacion Valley,2011 ,12
+Tenderloin,2012 ,64
+CastroUpper Market,2005 ,95
+Nob Hill,2007 ,70
+Glen Park,2006 ,9
+Outer Richmond,2004 ,77
+Lone MountainUSF,2008 ,27
+Inner Sunset,2008 ,48
+CastroUpper Market,2004 ,89
+Presidio Heights,1998 ,35
+Presidio Heights,2002 ,31
+Hayes Valley,2003 ,52
+North Beach,2006 ,52
+Bernal Heights,1998 ,86
+Bernal Heights,2002 ,64
+Japantown,2010 ,1
+Twin Peaks,1997 ,21
+Mission,2005 ,216
+Lone MountainUSF,2015 ,40
+Inner Sunset,2015 ,47
+Chinatown,2010 ,22
+Financial DistrictSouth Beach,2007 ,6
+Bayview Hunters Point,2014 ,53
+Russian Hill,2001 ,49
+Western Addition,2014 ,50
+West of Twin Peaks,2004 ,29
+Visitacion Valley,2006 ,9
+Lakeshore,2005 ,21
+Potrero Hill,2010 ,10
+SunsetParkside,2002 ,124
+SunsetParkside,1998 ,208
+Portola,,2004 ,15
+Lakeshore,2004 ,6
+Marina,2007 ,49
+Haight Ashbury,2008 ,50
+North Beach,2011 ,25
+Chinatown,2003 ,10
+Portola,2005 ,8
+Pacific Heights,1997 ,81
+Noe Valley,2014 ,52
+South of Market,2015 ,47
+Mission,,2004 ,220
+Potrero Hill,2003 ,24
+Glen Park,2011 ,12
+Russian Hill,2000 ,80
+West of Twin Peaks,2005 ,25
+Outer Mission,2001 ,38
+Glen Park,2003 ,10
+Seacliff,1997 ,3
+Nob Hill,2002 ,60
+Nob Hill,1998 ,64
+Hayes Valley,2006 ,50
+Lone MountainUSF,2012 ,54
+Inner Sunset,2012 ,34
+Potrero Hill,2011 ,23
+OceanviewMercedIngleside,1998 ,58
+OceanviewMercedIngleside,2002 ,26
+North Beach,2003 ,50
+Chinatown,2011 ,32
+Excelsior,2016 ,77
+Bernal Heights,2007 ,20
+Glen Park,2010 ,10
+Tenderloin,2008 ,103
+Japantown,2006 ,3
+Presidio Heights,2007 ,15
+South of Market,2012 ,268
+Outer Mission,2000 ,60
+North Beach,2010 ,19
+Twin Peaks,1999 ,11
+Presidio Heights,2003 ,17
+CastroUpper Market,2001 ,116
+Hayes Valley,2002 ,49
+Hayes Valley,1998 ,177
+Seacliff,2016 ,4
+Lincoln Park,2000 ,2
+Outer Richmond,2001 ,124
+Mission,2009 ,118
+Financial DistrictSouth Beach,2011 ,6
+Nob Hill,2006 ,78
+Golden Gate Park,2010 ,1
+OceanviewMercedIngleside,2006 ,24
+Excelsior,1997 ,55
+Bernal Heights,2003 ,50
+Lakeshore,2009 ,9
+North Beach,2007 ,32
+Tenderloin,2014 ,108
+Portola,2009 ,27
+Marina,2011 ,39
+Presidio Heights,2010 ,13
+Mission Bay,2015 ,2
+Glen Park,2007 ,13
+West of Twin Peaks,2009 ,13
+Outer Richmond,2000 ,158
+Bernal Heights,2010 ,34
+CastroUpper Market,2000 ,104
+Japantown,2002 ,5
+Japantown,1998 ,7
+Golden Gate Park,2011 ,2
+Potrero Hill,2007 ,11
+Visitacion Valley,1998 ,28
+Visitacion Valley,2002 ,24
+Inner Richmond,2001 ,80
+Twin Peaks,2013 ,14
+Bayview Hunters Point,2008 ,41
+Marina,2003 ,42
+SunsetParkside,2006 ,76
+Chinatown,2007 ,19
+Financial DistrictSouth Beach,2010 ,7
+Western Addition,2008 ,24
+Bernal Heights,2011 ,43
+Mission Bay,2012 ,3
+Noe Valley,2008 ,24
+Pacific Heights,2016 ,58
+Haight Ashbury,2014 ,42
+Inner Richmond,2000 ,73
+Financial DistrictSouth Beach,2003 ,14
+Presidio Heights,2011 ,11
+Marina,2010 ,50
+Noe Valley,2015 ,41
+Nob Hill,2010 ,28
+South of Market,2014 ,63
+SunsetParkside,2011 ,59
+OceanviewMercedIngleside,2010 ,29
+Excelsior,1999 ,70
+Hayes Valley,2007 ,74
+Pacific Heights,2013 ,41
+Outer Mission,2005 ,22
+Inner Richmond,2009 ,20
+Japantown,2007 ,4
+Presidio Heights,2006 ,21
+Outer Mission,2004 ,11
+Glen Park,2002 ,17
+Glen Park,1998 ,41
+Nob Hill,2003 ,65
+Inner Sunset,2014 ,41
+Lone MountainUSF,2014 ,33
+Bayview Hunters Point,2015 ,74
+Bernal Heights,2006 ,33
+Western Addition,2015 ,40
+Twin Peaks,2016 ,12
+North Beach,1998 ,73
+OceanviewMercedIngleside,2003 ,44
+North Beach,2002 ,26
+OceanviewMercedIngleside,2011 ,21
+Chinatown,1998 ,22
+Chinatown,2002 ,6
+Mission Bay,2008 ,1
+Lakeshore,2001 ,2
+Noe Valley,2012 ,31
+Portola,2000 ,30
+CastroUpper Market,2009 ,45
+Financial DistrictSouth Beach,2006 ,10
+Nob Hill,2011 ,31
+Russian Hill,2005 ,27
+West of Twin Peaks,2000 ,38
+Outer Richmond,2009 ,52
+SunsetParkside,2010 ,59
+Visitacion Valley,2007 ,15
+Mission,2001 ,268
+Potrero Hill,2002 ,26
+Potrero Hill,1998 ,66
+West of Twin Peaks,2001 ,46
+Mission,2000 ,254
+Russian Hill,2004 ,15
+Marina,2006 ,27
+Western Addition,2012 ,28
+SunsetParkside,2003 ,78
+Portola,2001 ,33
+Bayview Hunters Point,2012 ,48
+McLaren Park,2013 ,2
+Outer Richmond,1999 ,121
+Presidio Heights,2015 ,15
+Mission Bay,2010 ,1
+Treasure Island,2006 ,7
+CastroUpper Market,1999 ,126
+Bayview Hunters Point,2006 ,27
+SunsetParkside,2008 ,68
+Visitacion Valley,2014 ,33
+Marina,2012 ,60
+Western Addition,2006 ,34
+Bernal Heights,2015 ,73
+Seacliff,2004 ,1
+Noe Valley,2006 ,69
+Haight Ashbury,1998 ,103
+Haight Ashbury,2002 ,69
+Golden Gate Park,2015 ,1
+Russian Hill,2013 ,37
+Financial DistrictSouth Beach,2012 ,19
+Excelsior,2009 ,48
+South of Market,2007 ,45
+Lakeshore,1997 ,55
+Inner Richmond,1999 ,63
+Presidio Heights,2012 ,11
+Pacific Heights,2004 ,36
+Nob Hill,2008 ,46
+Marina,2015 ,68
+Bernal Heights,2012 ,31
+Mission Bay,2011 ,5
+Mission,1997 ,279
+OceanviewMercedIngleside,2008 ,28
+Hayes Valley,2014 ,61
+Japantown,2014 ,6
+West of Twin Peaks,1997 ,48
+Financial DistrictSouth Beach,2015 ,7
+Inner Sunset,2007 ,69
+Lone MountainUSF,2007 ,24
+Outer Mission,2013 ,20
+Pacific Heights,2005 ,50
+Tenderloin,1998 ,72
+Tenderloin,2002 ,85
+Portola,1997 ,21
+Outer Richmond,1997 ,140
+Potrero Hill,2014 ,35
+Treasure Island,2010 ,5
+Noe Valley,2003 ,53
+CastroUpper Market,1997 ,153
+Outer Mission,2016 ,44
+Excelsior,2001 ,82
+Western Addition,2010 ,18
+Financial DistrictSouth Beach,2008 ,3
+Twin Peaks,2004 ,13
+Chinatown,2014 ,29
+Bayview Hunters Point,2010 ,45
+Nob Hill,2015 ,66
+Noe Valley,2010 ,31
+Twin Peaks,2005 ,22
+Excelsior,2000 ,67
+Treasure Island,2003 ,4
+Bayview Hunters Point,2003 ,38
+Haight Ashbury,2007 ,47
+Marina,2008 ,40
+Western Addition,2003 ,18
+SunsetParkside,2012 ,121
+OceanviewMercedIngleside,2015 ,46
+Inner Richmond,1997 ,115
+Western Addition,2011 ,17
+Lakeshore,1999 ,61
+Russian Hill,2016 ,45
+Bayview Hunters Point,2011 ,36
+Mission,1999 ,287
+South of Market,1998 ,44
+South of Market,2002 ,33
+Presidio Heights,2008 ,19
+Tenderloin,2007 ,162
+Nob Hill,2012 ,70
+North Beach,2014 ,51
+West of Twin Peaks,1999 ,41
+Lone MountainUSF,1998 ,67
+Lone MountainUSF,2002 ,32
+Inner Sunset,1998 ,107
+Inner Sunset,2002 ,55
+SunsetParkside,2015 ,158
+OceanviewMercedIngleside,2012 ,20
+Glen Park,2014 ,6
+Bernal Heights,2008 ,47
+Portola,1999 ,30
+Noe Valley,2011 ,54
+Outer Richmond,2012 ,72
+Tenderloin,2005 ,185
+Pacific Heights,2002 ,64
+Pacific Heights,1998 ,87
+Inner Richmond,2015 ,53
+CastroUpper Market,2012 ,50
+Noe Valley,2009 ,33
+Marina,1999 ,65
+Bayview Hunters Point,2009 ,44
+Visitacion Valley,2016 ,34
+Western Addition,2009 ,21
+North Beach,2013 ,85
+Financial DistrictSouth Beach,1999 ,48
+SunsetParkside,1997 ,152
+Tenderloin,2004 ,94
+Glen Park,2013 ,11
+Treasure Island,2009 ,18
+Twin Peaks,2007 ,23
+Inner Richmond,2012 ,38
+CastroUpper Market,2015 ,75
+West of Twin Peaks,2008 ,23
+Outer Richmond,2015 ,133
+Potrero Hill,2013 ,17
+Presidio Heights,1999 ,39
+Portola,2008 ,10
+Bernal Heights,1999 ,70
+Chinatown,2013 ,16
+Japantown,2016 ,11
+Haight Ashbury,2005 ,58
+Nob Hill,1997 ,86
+Hayes Valley,2016 ,56
+Seacliff,2002 ,3
+Seacliff,1998 ,2
+Lakeshore,2008 ,12
+Haight Ashbury,2004 ,45
+Excelsior,2006 ,29
+OceanviewMercedIngleside,1997 ,35
+Mission,2008 ,151
+Lakeshore,2015 ,82
+Pacific Heights,2007 ,42
+Hayes Valley,2013 ,34
+Marina,1997 ,90
+Inner Sunset,2005 ,40
+South of Market,2004 ,30
+Mission,2015 ,175
+Lone MountainUSF,2005 ,21
+West of Twin Peaks,2015 ,43
+Chinatown,2016 ,33
+CastroUpper Market,2008 ,88
+Inner Sunset,2004 ,34
+Lone MountainUSF,2004 ,34
+South of Market,2005 ,68
+Outer Richmond,2008 ,96
+Japantown,2013 ,1
+Excelsior,2011 ,29
+Outer Mission,2014 ,35
+Portola,2015 ,31
+Financial DistrictSouth Beach,1997 ,7
+SunsetParkside,1999 ,180
+Potrero Hill,2016 ,32
+Mission Bay,2009 ,3
+Western Addition,2000 ,35
+Lakeshore,2012 ,9
+Noe Valley,2001 ,65
+Glen Park,2016 ,12
+Presidio Heights,1997 ,34
+Bayview Hunters Point,2000 ,79
+Mission,2012 ,170
+Visitacion Valley,2013 ,13
+Excelsior,2003 ,43
+Bernal Heights,1997 ,92
+Presidio,2002 ,2
+Twin Peaks,2002 ,7
+North Beach,2016 ,63
+Twin Peaks,1998 ,16
+Nob Hill,1999 ,57
+Inner Richmond,2008 ,52
+West of Twin Peaks,2012 ,26
+Bayview Hunters Point,2001 ,62
+OceanviewMercedIngleside,1999 ,35
+Russian Hill,2014 ,58
+McLaren Park,2007 ,1
+Noe Valley,2000 ,93
+Western Addition,2001 ,35
+Excelsior,2010 ,20
+Portola,2012 ,24
+Visitacion Valley,2004 ,14
+West of Twin Peaks,2006 ,33
+Inner Richmond,2003 ,42
+Financial DistrictSouth Beach,2000 ,19
+Portola,2006 ,15
+Marina,2001 ,62
+Tenderloin,2016 ,157
+Inner Richmond,2010 ,16
+Lakeshore,2006 ,16
+Marina,2000 ,68
+OceanviewMercedIngleside,2009 ,77
+Financial DistrictSouth Beach,2001 ,4
+Russian Hill,2007 ,44
+Outer Richmond,2011 ,50
+Excelsior,2008 ,54
+Visitacion Valley,2005 ,14
+Nob Hill,2009 ,16
+Mission,2006 ,184
+Seacliff,2014 ,5
+CastroUpper Market,2011 ,37
+Presidio Heights,2001 ,33
+CastroUpper Market,2003 ,86
+Hayes Valley,2004 ,45
+Noe Valley,1997 ,89
+Outer Richmond,2003 ,55
+South of Market,2013 ,124
+Haight Ashbury,2016 ,48
+Pacific Heights,2014 ,71
+Bernal Heights,2001 ,60
+SunsetParkside,2009 ,64
+Outer Richmond,2010 ,50
+Bernal Heights,2000 ,89
+CastroUpper Market,2010 ,42
+Inner Richmond,2011 ,19
+Western Addition,1997 ,44
+Hayes Valley,2005 ,44
+Outer Mission,2007 ,22
+Inner Sunset,2013 ,56
+Lone MountainUSF,2013 ,36
+Lincoln Park,2003 ,1
+Japantown,2004 ,1
+Bayview Hunters Point,1997 ,23
+Presidio Heights,2000 ,51
+Twin Peaks,2014 ,9
+Chinatown,2004 ,19
+Lakeshore,2003 ,3
+SunsetParkside,2000 ,182
+West of Twin Peaks,2010 ,26
+Inner Sunset,2016 ,41
+Lone MountainUSF,2016 ,28
+Bernal Heights,2009 ,30
+Presidio Heights,2009 ,12
+Mission,2003 ,175
+Potrero Hill,2004 ,31
+Portola,2010 ,6
+Excelsior,2012 ,42
+West of Twin Peaks,2003 ,37
+Lakeshore,2010 ,167
+Russian Hill,2002 ,29
+Russian Hill,1998 ,70
+Inner Richmond,2006 ,40
+Potrero Hill,2005 ,21
+SunsetParkside,2001 ,159
+Portola,2003 ,8
+Chinatown,2005 ,10
+Mission,2010 ,114
+South of Market,2016 ,66
+Haight Ashbury,2013 ,41
+Marina,2009 ,12
+OceanviewMercedIngleside,2000 ,58
+Portola,2011 ,13
+Noe Valley,1999 ,88
+North Beach,2005 ,21
+Nob Hill,2000 ,85
+Excelsior,2015 ,88
+Lincoln Park,2006 ,5
+Glen Park,2005 ,6
+West of Twin Peaks,2011 ,23
+Mission,2011 ,126
+Financial DistrictSouth Beach,2009 ,13
+CastroUpper Market,2006 ,116
+Nob Hill,2001 ,53
+Tenderloin,2013 ,96
+Outer Mission,2002 ,21
+Outer Mission,1998 ,41
+Glen Park,2004 ,8
+Outer Richmond,2006 ,67
+Lakeshore,2011 ,201
+Western Addition,1999 ,48
+OceanviewMercedIngleside,2001 ,51
+Bayview Hunters Point,1999 ,65
+North Beach,2004 ,27
