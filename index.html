@@ -107,9 +107,42 @@
     zoom: 11
   });
 
-  // map.on('load', function() {
+  map.on('load', function() {
+
+    map.addLayer({
+      id: 'evictions',
+      type: 'circle',
+      source: {
+        type: 'geojson',
+        data: './evictions.geojson'
+      },
+      paint: {
+        'circle-radius':
+        {
+          property: 'year',
+          stops: [
+            [1999, 3],
+            [2016, 5]
+          ]
+        },
+        'circle-color': 
+        {
+          property: 'year',
+          stops: [
+            [1999, '#FF9200'],
+            [2004, '#FFBA5D'],
+            [2007, '#FFA52C'],
+            [2010, '#FF9200'],
+            [2013, '#DF7F00'],
+            [2016, '#AA5E79']
+          ]
+        },
+        'circle-opacity': 0.8
+      },
+      
+    }, 'admin-2-boundaries-dispute');
 
 
-  // });
+  });
   </script>
 </body>
