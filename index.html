@@ -170,6 +170,15 @@
 
     }, 'evictions');
 
+    document.getElementById('slider').addEventListener('input', function(e) {
+
+      var year = parseInt(e.target.value);
+    
+      map.setFilter('evictions', ['==', 'year', year]);
+      // // update text in the UI
+      document.getElementById('active-year').innerText = year;
+    });
+
   });
   </script>
 </body>
